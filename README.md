@@ -5,6 +5,7 @@
         <link rel="stylesheet" href="base.js">
         <link rel="stylesheet" href="base3.css">
         <link rel="stylesheet" href="base4.css">
+       <title>虹色の鉛筆募金</title>
        <link rel="icon" href="niji icon.png">
     </head>
 <body>
@@ -17,9 +18,6 @@
 <font color="blue" size=6>虹色の鉛筆募金です。</font><p>
 <font size=5>ここでは簡単な活動やこれからについての説明をします！</font><p>
 <font size=5>
-   
-    
 </font>
 </body>
-
 </html>
