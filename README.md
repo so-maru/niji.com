@@ -14,7 +14,7 @@
     <h2 class=list><a href=situmonn.html>質問箱</a></h2><p>
 <hr color="gray" size=3>
 <font size=5>こんにちは！</font><p>
-<font color="blue" size=6>虹色の鉛筆募金です。</font><p>
+<h3>虹色の鉛筆募金です。</h3><p>
 <font size=5>ここでは簡単な活動やこれからについての説明をします！</font><p>
 <font size=5>
 </font>
