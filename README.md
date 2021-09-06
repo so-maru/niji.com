@@ -5,7 +5,6 @@
         <link rel="stylesheet" href="base.js">
         <link rel="stylesheet" href="base3.css">
         <link rel="stylesheet" href="base4.css">
-       <title>虹色の鉛筆募金</title>
        <link rel="icon" href="niji icon.png">
     </head>
 <body>
