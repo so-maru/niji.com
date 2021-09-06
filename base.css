@@ -53,7 +53,7 @@ footer{
     right: 10;
 }
 .title{
-    background-color: green;
+    background-color: white;
     border-radius: 7px lightgray;
     border:double 5px lightgray;
     text-align: center;
@@ -78,15 +78,6 @@ title{
 }
 body{
     background-color:white;
-}
-.title{
-    border-radius: 7px lightgray;
-    border:double 5px lightgray;
-    text-align: center;
-    background-image : url(niji\ icon2.png  ) ;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    background-color: white;
 }
 .animation1:hover{
     text-align: center;
